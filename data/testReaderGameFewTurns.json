@@ -1,0 +1,261 @@
+{
+  "playerTurn": "YELLOW",
+  "playerTurnColor": "-393472",
+  "board": [
+    {
+      "graphicsColor": "-16777216",
+      "column": 0,
+      "onBoard": false,
+      "row": 0
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 1,
+      "onBoard": false,
+      "row": 0
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 2,
+      "onBoard": false,
+      "row": 0
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 3,
+      "onBoard": false,
+      "row": 0
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 4,
+      "onBoard": false,
+      "row": 0
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 5,
+      "onBoard": false,
+      "row": 0
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 6,
+      "onBoard": false,
+      "row": 0
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 0,
+      "onBoard": false,
+      "row": 1
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 1,
+      "onBoard": false,
+      "row": 1
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 2,
+      "onBoard": false,
+      "row": 1
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 3,
+      "onBoard": false,
+      "row": 1
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 4,
+      "onBoard": false,
+      "row": 1
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 5,
+      "onBoard": false,
+      "row": 1
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 6,
+      "onBoard": false,
+      "row": 1
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 0,
+      "onBoard": false,
+      "row": 2
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 1,
+      "onBoard": false,
+      "row": 2
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 2,
+      "onBoard": false,
+      "row": 2
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 3,
+      "onBoard": false,
+      "row": 2
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 4,
+      "onBoard": false,
+      "row": 2
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 5,
+      "onBoard": false,
+      "row": 2
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 6,
+      "onBoard": false,
+      "row": 2
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 0,
+      "onBoard": false,
+      "row": 3
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 1,
+      "onBoard": false,
+      "row": 3
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 2,
+      "onBoard": false,
+      "row": 3
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 3,
+      "onBoard": false,
+      "row": 3
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 4,
+      "onBoard": false,
+      "row": 3
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 5,
+      "onBoard": false,
+      "row": 3
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 6,
+      "onBoard": false,
+      "row": 3
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 0,
+      "onBoard": false,
+      "row": 4
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 1,
+      "onBoard": false,
+      "row": 4
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 2,
+      "onBoard": false,
+      "row": 4
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 3,
+      "onBoard": false,
+      "row": 4
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 4,
+      "onBoard": false,
+      "row": 4
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 5,
+      "onBoard": false,
+      "row": 4
+    },
+    {
+      "color": "RED",
+      "graphicsColor": "-65536",
+      "column": 6,
+      "onBoard": true,
+      "row": 4
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 0,
+      "onBoard": false,
+      "row": 5
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 1,
+      "onBoard": false,
+      "row": 5
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 2,
+      "onBoard": false,
+      "row": 5
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 3,
+      "onBoard": false,
+      "row": 5
+    },
+    {
+      "graphicsColor": "-16777216",
+      "column": 4,
+      "onBoard": false,
+      "row": 5
+    },
+    {
+      "color": "YELLOW",
+      "graphicsColor": "-393472",
+      "column": 5,
+      "onBoard": true,
+      "row": 5
+    },
+    {
+      "color": "RED",
+      "graphicsColor": "-65536",
+      "column": 6,
+      "onBoard": true,
+      "row": 5
+    }
+  ]
+}

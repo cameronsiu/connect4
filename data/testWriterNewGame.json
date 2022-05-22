@@ -1,0 +1,258 @@
+{
+    "playerTurn": "RED",
+    "playerTurnColor": "-65536",
+    "board": [
+        {
+            "graphicsColor": "-16777216",
+            "column": 0,
+            "onBoard": false,
+            "row": 0
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 1,
+            "onBoard": false,
+            "row": 0
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 2,
+            "onBoard": false,
+            "row": 0
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 3,
+            "onBoard": false,
+            "row": 0
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 4,
+            "onBoard": false,
+            "row": 0
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 5,
+            "onBoard": false,
+            "row": 0
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 6,
+            "onBoard": false,
+            "row": 0
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 0,
+            "onBoard": false,
+            "row": 1
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 1,
+            "onBoard": false,
+            "row": 1
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 2,
+            "onBoard": false,
+            "row": 1
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 3,
+            "onBoard": false,
+            "row": 1
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 4,
+            "onBoard": false,
+            "row": 1
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 5,
+            "onBoard": false,
+            "row": 1
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 6,
+            "onBoard": false,
+            "row": 1
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 0,
+            "onBoard": false,
+            "row": 2
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 1,
+            "onBoard": false,
+            "row": 2
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 2,
+            "onBoard": false,
+            "row": 2
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 3,
+            "onBoard": false,
+            "row": 2
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 4,
+            "onBoard": false,
+            "row": 2
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 5,
+            "onBoard": false,
+            "row": 2
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 6,
+            "onBoard": false,
+            "row": 2
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 0,
+            "onBoard": false,
+            "row": 3
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 1,
+            "onBoard": false,
+            "row": 3
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 2,
+            "onBoard": false,
+            "row": 3
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 3,
+            "onBoard": false,
+            "row": 3
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 4,
+            "onBoard": false,
+            "row": 3
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 5,
+            "onBoard": false,
+            "row": 3
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 6,
+            "onBoard": false,
+            "row": 3
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 0,
+            "onBoard": false,
+            "row": 4
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 1,
+            "onBoard": false,
+            "row": 4
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 2,
+            "onBoard": false,
+            "row": 4
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 3,
+            "onBoard": false,
+            "row": 4
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 4,
+            "onBoard": false,
+            "row": 4
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 5,
+            "onBoard": false,
+            "row": 4
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 6,
+            "onBoard": false,
+            "row": 4
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 0,
+            "onBoard": false,
+            "row": 5
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 1,
+            "onBoard": false,
+            "row": 5
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 2,
+            "onBoard": false,
+            "row": 5
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 3,
+            "onBoard": false,
+            "row": 5
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 4,
+            "onBoard": false,
+            "row": 5
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 5,
+            "onBoard": false,
+            "row": 5
+        },
+        {
+            "graphicsColor": "-16777216",
+            "column": 6,
+            "onBoard": false,
+            "row": 5
+        }
+    ]
+}
